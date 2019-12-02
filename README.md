@@ -2,6 +2,6 @@
 Simple letter counting programm with an historigram output
 
 ```bash
-~# javac Graph.java
-~# java Graph < DATA.data
+~$ javac Graph.java
+~$ java Graph < DATA.data
 ```
